@@ -8,8 +8,8 @@ nome (String)
 idade (int)
 Crie um construtor para inicializar esses atributos e um método chamado exibirDados() que imprime o nome e a idade da pessoa.
 Teste criando um objeto da classe Pessoa e chamando o método exibirDados().
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-2. Encapsulamento com Variáveis Privadas
+
+3. Encapsulamento com Variáveis Privadas
 Modifique a classe Pessoa do exercício anterior para que o atributo idade seja privado (_idade).
 Adicione um getter getIdade() para acessar o valor da idade e um setter setIdade(int novaIdade) para modificar a idade, garantindo que ela não seja negativa.
 Teste criando um objeto e alterando a idade com o setter.
